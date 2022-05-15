@@ -15,7 +15,7 @@ __Melhoria 1__, _melhoria 2_
 ### Linguagens do projeto:
 
 * HTML
-* CSS
+* CSS[](https://www.google.com/?%26hl%3Dpt-BR)
 * JavaScript
 * PHP    
 * MySQL
@@ -31,7 +31,7 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem local
 
-![Logo do Pyton](img/python.png)
+![Logo do Pyton](img/download.png)
 
 #### Imagem externa 
 
