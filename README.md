@@ -44,3 +44,11 @@ __Melhoria 1__, _melhoria 2_
 Contribuidor principal: https://github.com/Gabriel-Gith12
 
 [![Logo do GitHub](https://programathor.com.br/blog/wp-content/uploads/2018/04/github-logo-676x225.png)](https://github.com/Gabriel-Gith12)
+
+## Código da função soma
+
+``` javascript
+function soma(a, b){
+   return a + b;
+}
+```
