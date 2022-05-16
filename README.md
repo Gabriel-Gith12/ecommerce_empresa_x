@@ -27,7 +27,7 @@ __Melhoria 1__, _melhoria 2_
    2. Desconto especial para grupos de cliente
    3. CSS diferente para grupos de cliente
 2. Integracao com outros pagamentos
-3. Sistema de bonus primeira compra
+3. Sistema de bônus primeira compra
 
 #### Imagem local
 
@@ -48,7 +48,17 @@ Contribuidor principal: https://github.com/Gabriel-Gith12
 ## Código da função soma
 
 ``` javascript
-function soma(a, b){
+function soma(a, b) {
    return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [x] Área de membros
+
+- [] Integracao com outros pagamentos
+
+- [] Sistema de bônus
+
+- [x] CSS do roapé
