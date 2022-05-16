@@ -57,8 +57,8 @@ function soma(a, b) {
 
 - [x] Área de membros
 
-- [] Integracao com outros pagamentos
+- [ ] Integracao com outros pagamentos
 
-- [] Sistema de bônus
+- [ ] Sistema de bônus
 
 - [x] CSS do roapé
